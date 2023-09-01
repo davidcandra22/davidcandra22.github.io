@@ -1,0 +1,13 @@
+*,
+html {
+    margin: 2%;
+    padding: 2%;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#img-content {
+    height: 300px;
+}
