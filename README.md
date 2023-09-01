@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,11 +30,11 @@
 <p>Untuk permainan ini diikuti oleh campuran putra putri. Setiap peserta berhadapan dengan lawan, terdapat 1 bola ditengah-tengah dan jika ada intruksi mengambil bola, harus mengambil bola, apabila tidak dapat mengambil maka dinyatakan kalah. Peserta dilarang keluar dari lintasan lomba. 
 
 </p>
-</p>
+
 <p>Setiap ada lagu diputar, peserta diwajibkan berjoget. Setelah lagu berhenti, dapat mengambil bola yang ada di Tengah. Penilaian lomba ditentukan dari banyaknya bola yang di dapat. Peserta dilarang mengganggu peserta lain saat lomba berlangsung. 
 
 </p>
-</p>
+
 <p> c.      Estafet Cup </p>
 </p>
 <img src="WhatsApp Image 2023-08-28 at 22.58.46.jpeg"id="img-content"/>
@@ -48,7 +48,7 @@
 </p>
 <p> 1.	Terdapat 3 kategori lomba dalam 1 permainan mix estafet. Dengan urutan yang pertama yaitu balap karung, dilanjutkan dengan balap kelereng, dan yang terakhir adalah balap sarung. Pada masing-masing kategori mix estafet, rute atau lintasan dilakukan secara bolak-balik(dimulai dari garis start ke garis finish lalu kembali lagi ke garis start. Lalu dilanjutkan dengan estafet berikutnya. Terkecuali untuk balap sarung).  Berikut penjelasan masing-masing lomba :
 
-</p>
+
 </p>
 <p> -	Balap karung 	: Peserta mix estafet pertama dimulai dari posisi awal garis start lalu ke garis finish(pergantian orang), lalu kembali lagi ke garis start dengan memakai karung. Masing-masing team mengeluarkan 2 perwakilan(putra dan putri). Dengan aturan masing-masing peserta dilarang menjatuhkan/melepas karung yang dikenakan. Jika karung yang dikenakan jatuh/lepas wajib untuk mengulang dari garis start.
 
@@ -57,10 +57,10 @@
 <p> -	Balap Kelereng	: Setelah anggota team balap karung berhasil sampai pada garis start, dilanjutkan dengan peserta perwakilan ke dua bergantian memulai lomba dengan lintasan yang sama(awal di garis start lalu ke garis finish untuk pergantian orang, lalu kembali lagi ke garis start) dengan masing-masing team mengeluarkan 2 perwakilan(putra dan putri). Masing-masing peserta membawa sendok yang akan digigit di mulut yang akan di berikan 1 buah kelereng. Dengan aturan masing-masing peserta dilarang menjatuhkan 1 buah kelereng yang digigit di mulut. Jika peserta menjatuhkan kelereng, maka peserta wajib mengulang dari garis start(posisi awal).
 
 </p>
-</p>
+
 <p> -	Balap Sarung	: Setelah peserta balap kelereng berhasil sampai ke garis start, dilanjutkan dengan peserta perwakilan ke 3 pada masing-masing team mengeluarkan 3 orang perwakilan(putri). Pada masing-masing kelompok tersebut diberikan 1 buah sarung yang akan disalurkan dari orang pertama sampai orang terakhir dengan posisi tangan bergandengan. Jika orang kedua sedang menyalurkan sarung tersebut ke orang ke tiga, orang pertama akan pindah posisi ke paling depan untuk melanjutkan penyaluran sarung sampai garis finish (dilakukan berulang). Dengan aturan tangan peserta harus tetap bergandengan pada waktu menyalurkan sarung tersebut. Jika didapatkan kecurangan dalam permainan tersebut, peserta wajib mengulang dari posisi awal.
 
-</p>
+
 <p> 
     Berikut Ialah Tugas wawancara saya yang saya upload di youtube 
     </p>
@@ -68,10 +68,10 @@
     <source src="30 Agustus 2023(720P_HD).mp4" id="video-content"/>
   </video>  
   <p>link video : https://youtu.be/r6XUDT-IE98?si=tVSqpN5CxMeQ7C6q
-</p>
+
 <p> Sekian Artikel singkat dari saya , mohon maaf apabila ada salah kata yang kurang berkenang  Dan juga terikasih kepada teman teman yang sudah mau saya wawancarai , semoga tugas ini bisa diterima oleh kakak kakak dari ISC saya meminta maaf kembali untuk ketelatan mengumpulkan tugas yang lalu.
 
-</p>
+
     <link rel="stylesheet" href="style.css"> 
 </body>
 </html>
